@@ -20,12 +20,14 @@ Este repositório foi criado para a apresentação dos trabalhos da disciplina P
 
 Tabela com os links para as devidas questões.
 
-| Problema | Dificuldade | Método | Solução Código | Solução comentada |
-|----------|-------------|--------|----------------|--------------------|
-| *A ser preenchido* |  |  |  |  |
-| *A ser preenchido* |  |  |  |  |
-| *A ser preenchido* |  |  |  |  |
-| *A ser preenchido* |  |  |  |  |
+# Resumo de Soluções – Paradigmas e Problemas
+
+| Problema                                                                                 | Dificuldade       | Método / Paradigma                        | Solução Código                         | Solução comentada                     |
+|------------------------------------------------------------------------------------------|-------------------|-------------------------------------------|----------------------------------------|----------------------------------------|
+| [Beecrowd 1892 – Freshman Beats Veteran?](https://judge.beecrowd.com.br/judge/pt/problems/view/1892) | Difícil (9) |  Divide & Conquer (Counting Inversions) | `count_inversions.py`                  | `count_inversions.md`                 |
+| [Beecrowd 1310 – Profit](https://judge.beecrowd.com.br/judge/pt/problems/view/1310)      | Médio (4)         |  Divide & Conquer clássico (**Maximum Subarray**)                     | `max_subarray_divide_and_conquer.py`   | `max_subarray_divide_and_conquer.md`  |
+| *(Adicionar desafio)*                                                                    |                   |                                           |                                        |                                        |
+| *(Adicionar desafio)*                                                                    |                   |                                           |                                        |                                        |
 
 ---
 
