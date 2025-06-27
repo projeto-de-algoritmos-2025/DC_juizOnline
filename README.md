@@ -43,8 +43,13 @@ Tabela com os links para as devidas questões.
 
 ### Pré-requisitos
 
-- Python 3 instalado
-- pip (Python package manager)
+
+- Para Python:
+  - Python 3 instalado
+  - `pip` (gerenciador de pacotes do Python)
+
+- Para C++:
+  - Compilador C++ (como `g++`) instalado
 
 ### Comandos
 
