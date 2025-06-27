@@ -31,7 +31,7 @@ Tabela com os links para as devidas questões.
 
 ## Vídeo da apresentação
 
-[![Explicação no YouTube](https://img.youtube.com/vi/7tLNo8_n-zk/0.jpg)](https://youtu.be/7tLNo8_n-zk)
+[![Explicação no YouTube]()
 
 ---
 
