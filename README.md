@@ -22,12 +22,12 @@ Tabela com os links para as devidas questões.
 
 # Resumo de Soluções – Paradigmas e Problemas
 
-| Problema                                                                                 | Dificuldade       | Método / Paradigma                        | Solução Código                         | Solução comentada                     |
-|------------------------------------------------------------------------------------------|-------------------|-------------------------------------------|----------------------------------------|----------------------------------------|
-| [Beecrowd 1892 – Calouro vence vetarno?](https://judge.beecrowd.com/pt/problems/view/1892) | Difícil (9) |  Divide & Conquer (Counting Inversions) | [1892_calouro.py](DC/1892_calouro_vence_veterano/1892_calouro.py)                  |   [1892_calouro.md](DC/1892_calouro_vence_veterano/1892_calouro.md)             |
-| [Beecrowd 1310 – Profit](https://judge.beecrowd.com.br/judge/pt/problems/view/1310)      | Médio (4)         |  Divide & Conquer clássico (**Maximum Subarray**)                     | `max_subarray_divide_and_conquer.py`   | `max_subarray_divide_and_conquer.md`  |
-| [Beecrowd 1295 - Pares próximos](https://judge.beecrowd.com/pt/problems/view/1295) |         Difícil (9)          |                          Pares Próximos                 |          [1295_pares_proximos.py](DC/1295_pares_proximos/1295_pares_proximos.py)                              |           [1295_pares_proximos.md](DC/1295_pares_proximos/1295.md)                             |
-| *(Adicionar desafio)*                                                                    |                   |                                           |                                        |                                        |
+| Problema                                                                                   | Dificuldade       | Método / Paradigma                        | Solução Código                              | Solução comentada                            |
+|--------------------------------------------------------------------------------------------|-------------------|-------------------------------------------|---------------------------------------------|-----------------------------------------------|
+| [Beecrowd 1892 – Calouro vence veterano?](https://judge.beecrowd.com/pt/problems/view/1892) | Difícil (9)       | Divide & Conquer (Contagem de Inversões) | [1892_calouro.py](DC/1892_calouro_vence_veterano/1892_calouro.py) | [1892_calouro.md](DC/1892_calouro_vence_veterano/1892_calouro.md) |
+| [Beecrowd 1295 – Pares Próximos](https://judge.beecrowd.com/pt/problems/view/1295)         | Difícil (9)       | Geometria com Divide & Conquistar        | [1295_pares_proximos.py](DC/1295_pares_proximos/1295_pares_proximos.py) | [1295_pares_proximos.md](DC/1295_pares_proximos/1295.md) |
+| [Beecrowd 1088 – Bolhas e Baldes](https://judge.beecrowd.com/pt/problems/view/1088)         | Médio (6)         | Divide & Conquer (Contagem de Inversões) | [1088.cpp](DC/1088_bolhas_e_baldes/1088.cpp) | [1088.md](DC/1088_bolhas_e_baldes/1088.md) |
+| [Beecrowd 1162 – Troca de Trens](https://judge.beecrowd.com/pt/problems/view/1162)          | Médio (5)         | Divide & Conquer (Contagem de Inversões) | [1162.cpp](DC/1162_troca_de_trens/1162.cpp)   | [1162.md](DC/1162_troca_de_trens/1162.md) |
 
 ---
 
