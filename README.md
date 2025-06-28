@@ -33,7 +33,7 @@ Tabela com os links para as devidas questões.
 
 ## Vídeo da apresentação
 
-[![Explicação no YouTube]()
+[![Assista à explicação no YouTube](https://img.youtube.com/vi/IgFj_CgqNv8/0.jpg)](https://youtu.be/IgFj_CgqNv8)
 
 ---
 
@@ -50,6 +50,7 @@ Tabela com os links para as devidas questões.
 
 - Para C++:
   - Compilador C++ (como `g++`) instalado
+  - Recomendado: usar um ambiente com suporte a C++17 ou superior
 
 ### Comandos
 
